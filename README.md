@@ -5,7 +5,7 @@
 
 Method 1: (When __init__.py file is used)
 ```
-gunicorn -w 2 simpleapp.app:app
+gunicorn -w 2 simpleapp.app
 ```
 
 Method 2: (When app.py file is used)
